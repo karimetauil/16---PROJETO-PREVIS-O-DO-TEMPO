@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML5
 - CSS3
 - JavaScript
-- Open Wheather API
+- Open Wheather (API)
 - Git
 - Github
 
